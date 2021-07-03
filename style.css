@@ -1,0 +1,32 @@
+body{
+    background-color:green;
+}
+.heading{
+    /* position : relative ;
+    left: 600px; */
+    font-style: italic;
+    font-size:50px;
+    text-align: center;
+    text-decoration: none;
+    color:greenyellow;
+}
+.subheading{
+    display:inline-block;
+    position:relative;
+    top: 170px;
+    left:525px;
+    text-decoration: none;
+    color:greenyellow;
+    font-style: italic;
+    
+    
+
+}
+.play{
+    display: inline-block;
+    position:relative;
+    left:350px;
+    top: 100px;
+    width:15%;
+    height:70%;
+}
